@@ -1,6 +1,6 @@
 import { FlagsContext } from "./FlagsContext";
 import { useContext, useState } from "react";
-import JokeCard from "../JokeCard";
+import JokeCard from "./JokeCard";
 import axios from "axios";
 
 
