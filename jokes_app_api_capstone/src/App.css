@@ -40,3 +40,12 @@
 .read-the-docs {
   color: #888;
 }
+
+.randomJokeContainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: solid black .5px;
+  width: 80vw;
+  height: 50vh;
+}
